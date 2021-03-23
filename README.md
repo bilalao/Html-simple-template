@@ -1,4 +1,4 @@
-# Html-simple-template
+# Simple-Html-template
 
 HTML e-mail template
 <br>

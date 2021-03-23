@@ -3,4 +3,4 @@
 HTML e-mail template
 <br>
 <br>
-<img src ="office1.jpeg" width="50%">
+<img src ="demo-images" width="50%">

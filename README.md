@@ -1,6 +1,7 @@
-# Html-simple-template
+# Simple-Html-template
 
 HTML e-mail template
 <br>
 <br>
-<img src ="office1.jpeg" width="50%">
+<img src ="demo-images/1.png" width="50%">
+
